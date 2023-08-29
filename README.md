@@ -1,6 +1,8 @@
 ![Alt text](pics/elk1.png?raw=true)
-# Just put ansible-playbook -i ../../../hosts.txt deployELK.yml -K
-and Sudo Pass
+# Just put ansible-playbook -i ./hosts.txt deployELK.yml -K                and input sudo Pass
+
+
+
 # Ansible Role for Elastic Stack + beats [Lab] deployment
 This repo contains everything you need to get started with Elastic Stack + beats using ansible to deploy the code on your server. The goal is to create a working ELK stack LAB environment.
 
